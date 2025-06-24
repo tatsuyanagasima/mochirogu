@@ -8,7 +8,7 @@ Next.js（TypeScript）とSupabaseを用いたフルスタック構成で、日�
 認証：Supabase Auth（メール／SNSログイン対応）
 
 ## サイトイメージ
-チャート描画：Chart.js![ChatGPT Image 2025年5月27日 00_19_45](https://github.com/user-attachments/assets/e70bce87-ab83-43d4-be3a-38c5f2d0d2f9)
+チャート描画：Chart.js![ChatGPT Image 2025年5月27日 00_19_45](https://github.com/user-attachments/assets/ee721251-44e3-4252-81b0-5982d7cb18d4)
 
 
 ## 設計ドキュメント
